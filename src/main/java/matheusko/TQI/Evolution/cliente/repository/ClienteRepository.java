@@ -1,6 +1,6 @@
-package matheusko.TQI.Evolution.clientes.repository;
+package matheusko.TQI.Evolution.cliente.repository;
 
-import matheusko.TQI.Evolution.clientes.model.Cliente;
+import matheusko.TQI.Evolution.cliente.model.Cliente;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

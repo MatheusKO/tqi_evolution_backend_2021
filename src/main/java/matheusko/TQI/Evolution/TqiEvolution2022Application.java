@@ -8,6 +8,7 @@ import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.crypto.password.PasswordEncoder;
 
 @SpringBootApplication(exclude = {SecurityAutoConfiguration.class})
+//@SpringBootApplication
 public class TqiEvolution2022Application {
 
 	public static void main(String[] args) {
